@@ -16,6 +16,7 @@ namespace TestNlog
             logger.Info("hello!");
             while (true)
             {
+
                 logger.Info("hello!");
                 Thread.Sleep(100);
             }
